@@ -1,0 +1,9 @@
+Raju Gangitla is a Full Stack Developer from India, currently working at Zedblock, where he has been contributing for nearly two years. He earned his Bachelor of Technology (BTech) degree from Vignan's Institute of Information Technology. citeturn0search1
+
+In his professional journey, Raju is engaged in developing AI products and is expanding his expertise in technologies such as Next.js, NestJS, MongoDB, PostgreSQL, and Google Cloud Platform (GCP). citeturn0search0
+
+Raju is also an active open-source contributor. During Hacktoberfest 2024, he participated in the oss.gg Hackathon, contributing to projects like Formbricks, Dub, Papermark, and Unkey. He documented his experiences in a blog post titled "Working by Day, Hacking by Night: My oss.gg Hackathon Experience." citeturn0search7
+
+Beyond his professional endeavors, Raju shares insights and guides on platforms like DEV Community. Notably, he authored "Self-Hosting Twenty CRM: A Complete Guide," providing step-by-step instructions for setting up the open-source CRM on personal servers. citeturn0search8
+
+For more information or to connect with Raju, you can visit his GitHub profile. citeturn0search0 
